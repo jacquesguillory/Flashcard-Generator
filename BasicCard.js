@@ -1,8 +1,15 @@
-var inquirer = require("inquirer");
+// In case I need this
 var fs = require("fs");
 
-// constructor function for creating player objects
-function Basic(front, back) {
-    this.front = name;
+// constructor function for card objects
+function BasicCard(front, back) {
+    this.front = front;
     this.back = back;
 }
+
+module.exports = BasicCard;
+
+
+
+
+

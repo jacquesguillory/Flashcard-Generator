@@ -1,2 +1,2 @@
 # Flashcard-Generator
-This is a basic flashcard application; the purpose of which is to practice using constructors
+This is a basic backend for a flashcard generator application; the purpose of which is to practice using constructors.
